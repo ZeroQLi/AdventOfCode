@@ -1,6 +1,6 @@
-# ZeroQL's 2022 advent of code
+# ZeroQL's 2021 advent of code
 
-These are my solutions to the 2022 advent of code challenges. Written with love in python
+These are my solutions to the 2021 advent of code challenges. Written with love in python (1 full year late)
 
 This is definitely not efficient code but i'm proud of myself regardless.
 
