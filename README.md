@@ -16,5 +16,9 @@ for example ``AOC_5_P2.py`` would be my solution for the 2nd part of day 5
 fork this repo or download the individual file and
 place your input in the ``input.txt`` file
 
+## 2021 Advent of Code
+
+Change to the ``2021-airport`` branch
+
 ##### oh and star this rep too while your at it
 ##### thanks :D
