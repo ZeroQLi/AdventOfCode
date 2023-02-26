@@ -21,4 +21,3 @@ place your input in the ``input.txt`` file
 Change to the ``2021-airport`` branch
 
 ##### oh and star this rep too while your at it
-##### thanks :D
