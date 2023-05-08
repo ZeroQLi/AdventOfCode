@@ -1,6 +1,6 @@
-# ZeroQL's 2022 advent of code
+# ZeroQL's 2022 advent of code (But in C++)
 
-These are my solutions to the 2022 advent of code challenges. Written with love in python
+These are my solutions to the 2022 advent of code challenges. Originally written with love in pythonb but now in C++
 
 This is definitely not efficient code but i'm proud of myself regardless.
 
@@ -18,6 +18,6 @@ place your input in the ``input.txt`` file
 
 ## 2021 Advent of Code
 
-Change to the ``2021-airport`` branch
+Change to the ``2021-airport`` branch (PYTHON ONLY, for now)
 
 ##### oh and star this rep too while your at it
