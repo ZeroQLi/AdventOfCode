@@ -4,7 +4,7 @@ These are my solutions to the 2022 advent of code challenges. Originally written
 
 This is definitely not efficient code but i'm proud of myself regardless.
 
-switch to ``C++airport```branch for solutions in C++
+switch to ``C++-airport`` branch for solutions in C++
 
 ## Terminology
 ```AOC_[day]_[part].py```
