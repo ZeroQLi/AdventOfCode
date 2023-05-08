@@ -1,8 +1,10 @@
-# ZeroQL's 2022 advent of code (But in C++)
+# ZeroQL's 2022 advent of code
 
-These are my solutions to the 2022 advent of code challenges. Originally written with love in pythonb but now in C++
+These are my solutions to the 2022 advent of code challenges. Originally written with love in python, but also in C++
 
 This is definitely not efficient code but i'm proud of myself regardless.
+
+switch to ``C++airport```branch for solutions in C++
 
 ## Terminology
 ```AOC_[day]_[part].py```
