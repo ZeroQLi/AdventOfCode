@@ -19,6 +19,6 @@ Example: ``AOC_5_P2.py`` would be my solution for the 2nd part of day 5
 
 Switch to the ``YEAR-airport`` branch for my solutions for the respective years (2022 and 2021, for now)
 
-##### oh and star this rep too while your at it 
+### oh and star this repository too while your at it 
 
 # Happy holidays
