@@ -12,10 +12,10 @@ Example: ``AOC_5_P2.py`` would be my solution for the 2nd part of day 5
 
 ## Testing
 
-fork this repo or download the individual file and
-place your input in the ``input.txt`` file
+1. fork this repo or download the individual file
+2. place your input in the ``input.txt`` file
 
-## Previous Advent of Code Challenges
+## Previous year Challenges
 
 Switch to the ``YEAR-airport`` branch for my solutions for the respective years (2022 and 2021, for now)
 
