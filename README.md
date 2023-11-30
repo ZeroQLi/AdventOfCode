@@ -1,7 +1,5 @@
 # ZeroQL's 2023 advent of code
-
-These are my solutions to the 2023 advent of code challenges. Originally written with love in C++ 
-(and maybe also in python?, haven't decided yet)
+These are my solutions to the 2022 advent of code challenges. Originally written with love in python but now in C++
 
 This is definitely not efficient code but i'm proud of myself regardless.
 
