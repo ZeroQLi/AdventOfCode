@@ -19,6 +19,6 @@ place your input in the ``input.txt`` file
 
 Switch to the ``YEAR-airport`` branch for my solutions for the respective years (2022 and 2021, for now)
 
-##### oh and star this rep too while your at it 
+### oh and star this repository too while your at it 
 
 # Happy holidays
