@@ -1,5 +1,5 @@
 # ZeroQL's 2023 advent of code
-These are my solutions to the 2022 advent of code challenges. Originally written with love in python but now in C++
+These are my solutions to the 2023 advent of code challenges.To be solved with python (and C++?, heven't decided)
 
 This is definitely not efficient code but i'm proud of myself regardless.
 
@@ -18,8 +18,6 @@ place your input in the ``input.txt`` file
 ## Previous Advent of Code Challenges
 
 Switch to the ``YEAR-airport`` branch for my solutions for the respective years (2022 and 2021, for now)
-
-``2022-C++-airport`` are my 2022 AOC solutions in C++
 
 ##### oh and star this rep too while your at it 
 
