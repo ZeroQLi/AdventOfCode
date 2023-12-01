@@ -17,7 +17,7 @@ Example: ``AOC_5_P2.py`` would be my solution for the 2nd part of day 5
 
 ## Previous year Challenges
 
-Switch to the ``YEAR-airport`` branch for my solutions for the respective years (2022 and 2021, for now)
+Switch to the ``YEAR-airport`` branch for my solutions for the respective years (2022 and 2021)
 
 ### oh and star this repository too while your at it 
 
