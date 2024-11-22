@@ -1,5 +1,5 @@
 # ZeroQL's 2024 advent of code
-These are my solutions to the 2024 advent of code challenges.To be solved with Python(and C?, haven't decided)
+These are my solutions to the 2024 advent of code challenges.To be solved with Python (and C?, haven't decided)
 
 This is definitely not efficient code but i'm proud of myself regardless.
 
