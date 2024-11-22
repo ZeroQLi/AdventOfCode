@@ -1,5 +1,5 @@
-# ZeroQL's 2023 advent of code
-These are my solutions to the 2023 advent of code challenges.To be solved with python (and C++?, heven't decided)
+# ZeroQL's 2024 advent of code
+These are my solutions to the 2024 advent of code challenges.To be solved with Python(and C?, haven't decided)
 
 This is definitely not efficient code but i'm proud of myself regardless.
 
